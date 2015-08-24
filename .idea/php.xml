@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.6.0" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings />
+      <phpunit_by_deployment server_id="2a8a4cb0-8c4d-45ed-8fa5-509c8b3d1fde" />
+    </phpunit_settings>
+  </component>
+</project>
+
